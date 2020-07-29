@@ -1,6 +1,16 @@
 # AutoSetupSMTorTV
 Скрипт авто настройки Sergey Mokhrov TorTV. При первом запуске скрипт подготавливает вашу ОС к просмотру TorTV, устанавливая необходимое ПО. При последующих запусках скрипт изменяет прокси вашей ОС на 127.0.0.1:8118, для проксирования трафика в Tor, и запускает PotPlayer с воспроизведением потокового контента Сергея Мохрова. Ниже смотрите скринкасты с примерами использования, все записи длятся меньше минуты и очень подробные.
 
+## Оглавление
+- [Требования к запуску](#Требования-к-запуску)
+    - [Windows 10](#Windows-10)
+    - [Windows 7](#Windows-7)
+- [ВНИМАНИЕ](#ВНИМАНИЕ)
+- [Как скачать скрипт с GitHub](#Как-скачать-скрипт-с-GitHub)
+- [Как установить и использовать](#Как-установить-и-использовать)
+    - [Windows 10](#Windows-10)
+    - [Windows 7](#Windows-7)
+
 ## Требования к запуску
 
 ### Windows 10
@@ -18,8 +28,10 @@
 
 ![First start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Other/HowDownload.gif)
 
-## Примеры использования
-<details><summary>Для Windows 10</summary>
+## Как установить и использовать
+
+### Windows 10
+<details><summary>Нажмите, чтобы развернуть</summary>
 
 <details><summary>Первый запуск (установка) SMTorTV</summary>
 
@@ -38,7 +50,8 @@
 
 </details>
 
-<details><summary>Для Windows 7</summary>
+### Windows 7
+<details><summary>Нажмите, чтобы развернуть</summary>
 
 <details><summary>Первый запуск (установка) SMTorTV</summary>
 
