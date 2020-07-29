@@ -35,15 +35,15 @@
 <details><summary>Для Windows 7</summary>
 
 <details><summary>Первый запуск (установка) SMTorTV</summary>
-[First start SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7InstallSVTorTV.gif)
+![First start SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7InstallSVTorTV.gif)
 </details>
 
 <details><summary>Все последующие запуски SMTorTV после первого</summary>
-![Standart start SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7StartTorTV.gif)
+Идентично с Windows 10, смотрите скринкаст выше.
 </details>
 
 <details><summary>Закрытие SMTorTV по завершению просмотра</summary>
-![Stop SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7StopTorTV.gif)
+Идентично с Windows 10, смотрите скринкаст выше.
 </details>
 
 </details>
