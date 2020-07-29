@@ -19,18 +19,31 @@
 <details><summary>Для Windows 10</summary>
 
 <details><summary>Первый запуск (установка) SMTorTV</summary>
-
 ![First start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10InstallTorTV.gif)
 </details>
 
 <details><summary>Все последующие запуски SMTorTV после первого</summary>
-
 ![Standart start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10StartTorTV.gif)
 </details>
 
 <details><summary>Закрытие SMTorTV по завершению просмотра</summary>
-
 ![Stop SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10StopTorTV.gif)
+</details>
+
+</details>
+
+<details><summary>Для Windows 7</summary>
+
+<details><summary>Первый запуск (установка) SMTorTV</summary>
+![First start SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7InstallSVTorTV.gif)
+</details>
+
+<details><summary>Все последующие запуски SMTorTV после первого</summary>
+![Standart start SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7StartTorTV.gif)
+</details>
+
+<details><summary>Закрытие SMTorTV по завершению просмотра</summary>
+![Stop SMTorTV on Windows 7 Demo](https://github.com/Veanvi/AutoSetupSMTorTV/raw/master/ReadmeGIFs/Win7/Win7StopTorTV.gif)
 </details>
 
 </details>
