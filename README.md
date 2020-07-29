@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/Veanvi/AutoSetupSMTorTV/total)]() [![Github All Releases](https://img.shields.io/github/languages/code-size/veanvi/AutoSetupSMTorTV)]()
+[![Github Total Downloads](https://img.shields.io/github/downloads/Veanvi/AutoSetupSMTorTV/total)]() [![Code size](https://img.shields.io/github/languages/code-size/veanvi/AutoSetupSMTorTV)]()
 
 # AutoSetupSMTorTV
 
