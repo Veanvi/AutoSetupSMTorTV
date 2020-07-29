@@ -1,4 +1,7 @@
+[![Github All Releases](https://img.shields.io/github/downloads/Veanvi/AutoSetupSMTorTV/total)]() [![Github All Releases](https://img.shields.io/github/languages/code-size/veanvi/AutoSetupSMTorTV)]()
+
 # AutoSetupSMTorTV
+
 Скрипт авто настройки Sergey Mokhrov TorTV. При первом запуске скрипт подготавливает вашу ОС к просмотру TorTV, устанавливая необходимое ПО. При последующих запусках скрипт изменяет прокси вашей ОС на 127.0.0.1:8118, для проксирования трафика в Tor, и запускает PotPlayer с воспроизведением потокового контента Сергея Мохрова. Ниже смотрите скринкасты с примерами использования, все записи длятся меньше минуты и очень подробные.
 
 ## Оглавление
