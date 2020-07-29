@@ -7,7 +7,7 @@
     - [Windows 7](#Windows-7)
 - [ВНИМАНИЕ](#ВНИМАНИЕ)
 - [Как скачать скрипт с GitHub](#Как-скачать-скрипт-с-GitHub)
-- [Как установить и использовать](#Как-установить-и-использовать)
+- [Как установить и использовать скрипт](#Как-установить-и-использовать-скрипт)
     - [Windows 10](#Windows-10)
     - [Windows 7](#Windows-7)
 
@@ -26,9 +26,12 @@
 
 ## Как скачать скрипт с GitHub
 
-![First start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Other/HowDownload.gif)
+<details><summary>Нажмите, чтобы развернуть</summary>
 
-## Как установить и использовать
+![First start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Other/HowDownload.gif)
+</details>
+
+## Как установить и использовать скрипт
 
 ### Windows 10
 <details><summary>Нажмите, чтобы развернуть</summary>
