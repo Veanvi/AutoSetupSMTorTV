@@ -9,15 +9,21 @@
 ### Windows 7
 У вас должен быть установлен .NET 4.5.2 или новее. Установить его можно по [этой ссылке](https://www.microsoft.com/download/details.aspx?id=42642). Если вы действительно используете Win7 как основную ОС, скорее всего .NET вы уже когданибуть обновляли.
 
-## Инструкция для Windows 10
-### Первый запуск (установка) SMTorTV
+<details><summary>## Инструкция для Windows 10</summary>
+
+<details><summary>### Первый запуск (установка) SMTorTV</summary>
 
 ![First start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10InstallTorTV.gif)
+</details>
 
-### Все последующие запуски SMTorTV после первого
+<details><summary>### Все последующие запуски SMTorTV после первого</summary>
 
 ![Standart start SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10StartTorTV.gif)
+</details>
 
-### Закрытие SMTorTV по завершению просмотра
+<details><summary>### Закрытие SMTorTV по завершению просмотра</summary>
 
 ![Stop SMTorTV on Windows 10 Demo](https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/ReadmeGIFs/Win10/Win10StopTorTV.gif)
+</details>
+
+</details>
