@@ -28,13 +28,13 @@ if !isProxyEnable! equ 1 (
 
 :skipChangeProxy
 
-:: Определение версии операционной системы (Windows 7 или другие)
+:: Определение версии операционной системы (Windows 7, Windows 8.1 или другие)
 set "key=HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion"
 For /F "delims=" %%a in ('reg query "%key%" /v "ProductName" ^| find /i "ProductName"') do (
   set OSName=%%a
 )
 
-echo !OSName! |echo !OSName! |>NUL find /i "Windows 7" && call :W7 || call :Other
+echo !OSName! |echo !OSName! |>NUL find /i "Windows 7" && call :W7 || echo !OSName! |>NUL find /i "Windows 8" && call :W7 || echo !OSName! |>NUL find /i "Windows 10" && call :W10
 exit /B
 
 :: Выполняется если скрипт запущен в Windows 7
@@ -60,11 +60,13 @@ if !errorlevel! equ 0 (
   cls
   powershell -ExecutionPolicy RemoteSigned -file "%TEMP%\SetupWmfOnWin7.ps1"
 )
+
 exit /B
 
 :: Выполняется если скрипт запущен не в Windows 7
-:Other
+:W10
 powershell -NoProfile -InputFormat None -ExecutionPolicy RemoteSigned -Command " [System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://raw.githubusercontent.com/Veanvi/AutoSetupSMTorTV/master/SetupAndStartupTorTV.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\SetupAndStartupTorTV"
+
 exit /B
 
  
