@@ -54,7 +54,10 @@
 
 ## Список доступных Tor-TV каналов
 - Канал с тестовым вещянием (http://olegtitov3x4u2qz.onion/hls/)
-- Канал 1D - Первый тёмный (http://olegtitov3x4u2qz.onion/1D)
+- Канал 1D - Первый тёмный (http://olegtitov3x4u2qz.onion/hls/1)
+- Второй канал (http://olegtitov3x4u2qz.onion/hls/2)
+- Третий канал с пониженным битрейтом (http://olegtitov3x4u2qz.onion/hls/3)
+
 
 ## Как скачать скрипт с GitHub
 
